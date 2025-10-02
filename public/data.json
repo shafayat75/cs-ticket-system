@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login not working",
+    "description": "User unable to log in with correct credentials.",
+    "customer": "Amir Hossan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment failure",
+    "description": "Customer's payment was declined but balance was deducted.",
+    "customer": "Sarah Ahmed",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 3,
+    "title": "App crash on startup",
+    "description": "The mobile app crashes immediately after launching.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 4,
+    "title": "Slow dashboard loading",
+    "description": "Dashboard takes more than 30 seconds to load.",
+    "customer": "Emily Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 5,
+    "title": "Email notifications not received",
+    "description": "User is not receiving any email alerts from the system.",
+    "customer": "David Lee",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 6,
+    "title": "Profile picture not uploading",
+    "description": "Customer cannot upload profile picture in settings.",
+    "customer": "Sophia Turner",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 7,
+    "title": "Password reset link expired",
+    "description": "Customer reports the reset password link expires too soon.",
+    "customer": "Michael Clark",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 8,
+    "title": "Order not showing in history",
+    "description": "Recent order is missing from customer's order history.",
+    "customer": "Linda Martinez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 9,
+    "title": "Search not returning results",
+    "description": "Search feature is not showing relevant results.",
+    "customer": "Chris Evans",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 10,
+    "title": "Double billing issue",
+    "description": "Customer charged twice for the same service.",
+    "customer": "Rachel Green",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 11,
+    "title": "Live chat not connecting",
+    "description": "Customer cannot connect to live chat support.",
+    "customer": "Henry Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 12,
+    "title": "App update not installing",
+    "description": "Latest update fails to install on Android devices.",
+    "customer": "Olivia Harris",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 13,
+    "title": "Invoice download error",
+    "description": "User unable to download invoices in PDF format.",
+    "customer": "Daniel Thompson",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 14,
+    "title": "Language preference not saving",
+    "description": "System reverts to English despite setting another language.",
+    "customer": "Isabella White",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 15,
+    "title": "Cart items disappearing",
+    "description": "Products added to cart disappear after a few minutes.",
+    "customer": "James Taylor",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-24"
+  }
+]
